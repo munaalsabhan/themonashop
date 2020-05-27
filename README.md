@@ -1,15 +1,15 @@
 ## Welcome to the mona shop Page
+         beauty page 
 
 .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you are going to see my favorite products and makeup artists .
 
-### Markdown
+### Makeup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Art is something beautifull that I can't live without it is a way to express yourself and your passion and makeup is my art my way of living and I want to share it to the world and live other people's art too and be one hand in art. 
 
-```markdown
-Syntax highlighted code block
+so afther talking about my art whats your art feel free to tell me that I have a lot of free time that Ineed to use.
 
 # Header 1
 ## Header 2
